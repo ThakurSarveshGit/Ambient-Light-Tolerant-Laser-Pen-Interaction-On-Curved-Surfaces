@@ -1,4 +1,4 @@
-# Ambient Light Tolerant Laser-Pen Interaction — Simulated Implementation (Unofficial)
+# Ambient light tolerant laser-pen based interaction with curved multi-projector displays — Simulated Implementation (Unofficial)
 
 > **⚠️ Unofficial code.** This is an *unofficial, simulation-only* re-implementation
 > of the paper below, released for the general audience. The **original system is
