@@ -1,3 +1,4 @@
+
 """Display partitioning and camera hand-off geometry (Sec 2.2).
 
 Each display coordinate is owned by the *closest* camera that can see it.

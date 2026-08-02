@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "Ambient Light Tolerant Laser-Pen Interaction (Simulated Implementation)"
+authors:
+  - family-names: Thakur
+    given-names: Sarvesh
+repository-code: "https://github.com/ThakurSarveshGit/Ambient-Light-Tolerant-Laser-Pen-Interaction-On-Curved-Surfaces"
+preferred-citation:
+  type: conference-paper
+  title: "Ambient Light Tolerant Laser-Pen Based Interaction with Curved Multi-projector Displays"
+  authors:
+    - family-names: Thakur
+      given-names: Sarvesh
+    - family-names: Urs
+      given-names: Meghana
+    - family-names: Ibrahim
+      given-names: Muhammad Twaha
+    - family-names: Sidenko
+      given-names: Alexander
+    - family-names: Majumder
+      given-names: Aditi
+  collection-title: "Human-Computer Interaction. Technological Innovation (HCII 2022), LNCS 13303"
+  publisher:
+    name: "Springer, Cham"
+  year: 2022
+  start: 180
+  end: 194
+  doi: "10.1007/978-3-031-05409-9_14"
